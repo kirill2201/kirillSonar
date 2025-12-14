@@ -51,8 +51,9 @@
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".NET" height="60" />
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://logowik.com/content/uploads/images/vulkan8914.jpg" alt="Vulkan" height="60" /><br/><br/>
-        
+        <img src="https://logowik.com/content/uploads/images/vulkan8914.jpg" alt="Vulkan" height="60" />
+        <br/>
+        <br/>
         <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="60" />
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="60" />
@@ -60,7 +61,6 @@
         <!-- Можно добавить ещё иконки сюда, они просто пойдут дальше по строке или перенесутся -->
       </div>
     </td>
-    
     <!-- Правая колонка: lo-fi coding GIF -->
     <td align="right" width="50%">
       <img src="https://miro.medium.com/v2/resize:fit:1400/1*rjeBlCZl652pWfyR_dVYJQ.gif" alt="Lo-fi coding vibes" width="400" />
