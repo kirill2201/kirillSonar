@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-<img src="https://giffiles.alphacoders.com/211/211798.gif" align="center" style="width: 100%" />
+  <img src="https://giffiles.alphacoders.com/211/211798.gif" align="center" style="width: 100%" />
 </div>  
 
 ### Кратко о себе 🚀
