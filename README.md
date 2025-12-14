@@ -40,7 +40,7 @@
 ### Движки и инструменты
 <div align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />
-  <img src="assets/Unreal_Engine-Logo.wine.png" alt="Unreal_Engine" height="50" />
+  <img src="assets/Unreal_Engine-Logo.wine.png" alt="Unreal_Engine" height="100" />
   <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".NET" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" />
@@ -60,10 +60,7 @@
 ## Статистика GitHub 📊
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kirill2201&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirill2201&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirill2201&theme=tokyonight" alt="Streak Stats" />
 </div>
 
 <br/>
