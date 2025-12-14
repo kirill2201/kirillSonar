@@ -1,107 +1,80 @@
+# Привет, сталкер! ☢️ Я KirillSonar
 
-
-### # Привет, мир игр! ☢️
- Я, KirillSonar, студент и C++/C# разработчик из РФ, увлекающийся в свободное время игрой в Сталкер и разработкой игр + неравнодушен к участию в gamejams в промежутке между сессиями  
 <div align="center">
-<img src="https://giffiles.alphacoders.com/211/211798.gif" align="center" style="width: 100%" />
-</div>  
+  <img src="https://i.redd.it/n6bal4pwvf991.gif" alt="Атмосфера Зоны" width="100%"/>
   
-
-
-
-### # Кратко о себе:  
-Геймдев энтузиаст | Разрабатываю на Unity & Unreal Engine | Фанат высокопроизводительного кода на C++ и удобного кодинга на C#.  
-  
-
--  👁️ В настоящее время изучаю OpenGL/Vulkan  
-  
-
-- ⚒️ В данный момент работаю над своей реализацией  классического Doom  
-  
-
-- ⚡ Без "10 hours russian doomer music" было бы скучно  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### # Языки программирования  
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-</div>  
-
-
-
-### # Движки  
-<div align="center">  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-</div>  
-
-
-
-### # Дополнительные инструменты  
-<div align="center">  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
+  Студент и C++/C# разработчик из РФ. В свободное время играю в S.T.A.L.K.E.R., участвую в gamejam'ах и кодю игры между сессиями.
 </div>
 
-</td><td valign="top" width="33%">
+### Кратко о себе 🚀
+- Геймдев-энтузиаст | Unity & Unreal Engine
+- Фанат высокопроизводительного кода на **C++** и удобного скриптинга на **C#**
+- 👁️ Сейчас изучаю OpenGL/Vulkan
+- ⚒️ Работаю над своей реализацией классического Doom
+- ⚡ Без "10 hours russian doomer music" было бы скучно
 
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
 <div align="center">
-<a href="https://github.com/kirill2201" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
+
+<grok-card data-id="85e47c" data-type="image_card"></grok-card>
+
+
+
+<grok-card data-id="010423" data-type="image_card"></grok-card>
+
+
+</div>
+
+## Мой стек технологий
+
+### Языки программирования
+<div align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
+</div>
+
+### Движки и инструменты
+<div align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".NET" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
+  <img src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" />
+</div>
+
+<br/>
+
+## Платформы и достижения
+<div align="center">
+  <a href="https://www.codewars.com/users/kirill2201">
+    <img src="https://www.codewars.com/users/kirill2201/badges/small" alt="Codewars Badge" />
+  </a>
+</div>
+
+<br/>
+
+## Статистика GitHub 📊
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kirill2201&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
   
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kirill2201&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirill2201&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
   
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirill2201&theme=tokyonight" alt="Streak Stats" />
+</div>
 
-<br/>  
+<br/>
 
-  
+## Зона зовёт ☢️
+<div align="center">
 
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
+<grok-card data-id="12b957" data-type="image_card"></grok-card>
 
 
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<grok-card data-id="e40584" data-type="image_card"></grok-card>
+
+
+</div>
+
+<div align="center">
+  Спасибо, что заглянул в мой профиль! Удачи в Зоне, сталкер... 🍃
+</div>
