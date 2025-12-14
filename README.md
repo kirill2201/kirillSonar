@@ -44,7 +44,7 @@
   <img src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="60" /><br/><br/>
 
   <!-- Средний ряд: 2 иконки -->
-  <img src="assets/Unreal_Engine-Logo.wine.png" alt="Unreal Engine" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/ue5c.png" alt="Unreal Engine" height="60" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".NET" height="60" /><br/><br/>
 
   <!-- Нижний ряд: 3 иконки (добавил Vulkan — идеально под твоё изучение OpenGL/Vulkan) -->
