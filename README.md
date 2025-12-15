@@ -97,8 +97,22 @@
 
 ## Статистика GitHub 📊
 <div align="center">
+
+  <!-- Основная статистика -->
   <img src="https://github-readme-stats.vercel.app/api?username=kirill2201&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <strong>Общая статистика GitHub</strong> — коммиты, вклад, звёзды и другие метрики<br/><br/><br/>
+
+  <!-- Топ языков -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirill2201&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+  <br/>
+  <strong>Топ языков программирования</strong> — распределение по языкам в репозиториях<br/><br/><br/>
+
+  <!-- Стрик (опционально, если хочешь добавить третий элемент) -->
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirill2201&theme=tokyonight" alt="GitHub Streak" /> -->
+  <!-- <br/>
+  <strong>Текущий стрик</strong> — сколько дней подряд я коммичу -->
+
 </div>
 
 <br/>
