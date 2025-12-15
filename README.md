@@ -45,24 +45,26 @@
 <table width="100%">
   <tr>
     <!-- Левая колонка: иконки в 3 ряда, раскиданы "как звёзды на небе" (рандомные отступы для естественного, красивого вида) -->
-    <td align="left" width="50%">
-      <div align="left">
-        <!-- Ряд 1 -->
-        <img src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="60" />
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="assets/ue5c.png" alt="Unreal Engine" height="60" />
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://logowik.com/content/uploads/images/vulkan8914.jpg" alt="Vulkan" height="60" /><br/><br/>
-<!-- Ряд 2 -->
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".NET" height="60" />
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="60" /><br/><br/>
-        <!-- Ряд 3 -->
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="60" />
-      </div>
-    </td>
+<td width="50%" style="vertical-align: top; padding: 20px;">
+  <div style="display: flex; flex-direction: column; gap: 40px; align-items: center;">
+    <!-- Ряд 1: 3 иконки -->
+    <div style="display: flex; justify-content: space-evenly; align-items: center; width: 100%;">
+      <img src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="60" />
+      <img src="assets/ue5c.png" alt="Unreal Engine" height="60" />
+      <img src="https://logowik.com/content/uploads/images/vulkan8914.jpg" alt="Vulkan" height="60" />
+    </div>
+    <!-- Ряд 2: 2 иконки -->
+    <div style="display: flex; justify-content: space-evenly; align-items: center; width: 100%;">
+      <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".NET" height="60" />
+      <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="60" />
+    </div>
+    <!-- Ряд 3: 1 иконка -->
+    <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+      <img src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="60" />
+    </div>
+    
+  </div>
+</td>
     <!-- Правая колонка: lo-fi coding GIF -->
     <td align="right" width="50%">
       <img src="assets/220253.gif" alt="Lo-fi coding vibes" width="400" />
