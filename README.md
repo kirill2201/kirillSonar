@@ -65,7 +65,7 @@
     </td>
     <!-- Правая колонка: lo-fi coding GIF -->
     <td align="right" width="50%">
-      <img src="https://miro.medium.com/v2/resize:fit:1400/1*rjeBlCZl652pWfyR_dVYJQ.gif" alt="Lo-fi coding vibes" width="400" />
+      <img src="assets/220253.gif" alt="Lo-fi coding vibes" width="400" />
     </td>
   </tr>
 </table>
